@@ -1,0 +1,5 @@
+# Exclude Node.JS modules
+node_modules
+
+# MacOS specific
+.DS_Store
